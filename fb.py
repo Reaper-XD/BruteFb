@@ -38,7 +38,7 @@ os.system('clear')
 print(REAPER)
 print('[!]Masukkan Email Target\n')
 email = input("Email : ")
-print('Masukkan Wordlist')
+print('Masukkan Wordlist(password.txt)')
 word = input('Wordlist : ')
 exist = os.path.isfile(word)
 if exist == False:
