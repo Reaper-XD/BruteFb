@@ -12,3 +12,5 @@ $pip3 install requests
 $git clone https://github.com/Reaper-XD/BruteFb
 $cd BruteFb
 </code></pre>
+### My Social Media
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Reaper-XD)
