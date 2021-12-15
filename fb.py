@@ -1,5 +1,5 @@
 #!/bin/usr/python3
-# -*- coding: utf-8: -*utf-8
+# -*- coding: utf-8: -*-
 
 #modules
 
