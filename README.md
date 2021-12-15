@@ -13,6 +13,6 @@ $git clone https://github.com/Reaper-XD/BruteFb
 $cd BruteFb
 </code></pre>
 ### My Social Media
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Reaper-XD)[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/reza123dcm)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/ferdik_reza/)
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Reaper-XD)[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/ReaperXD277)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/ferdik_reza/)
 ### Catatan
 Gunakan Lah dengan Bijak.Kalau Ada Masalah Admin Tidak Bertanggung Jawab!
