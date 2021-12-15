@@ -76,7 +76,7 @@ else:
           os.system('clear')
           print(REZA)
           print('\n\033[37;1m[\033[31;1m!\033[37;1m] Gunakanlah Sc Ini Dengan Bijak Karena \033[31;1mAdmin Tidak Bertanggung Jawab!!')
-          print('\n\033[37;1m[\033[31;1m!\033[37;7m]Mulai Crack \033[35;1m: '+ email)
+          print('\n\033[37;1m[\033[31;1m!\033[37;1m]Mulai Crack \033[35;1m: '+ email)
           arq = open(word, 'r').readlines()
           for line in arq:
                 password = line.strip()
