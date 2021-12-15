@@ -66,7 +66,7 @@ os.system('clear')
 print(REAPER)
 print('\033[37;1m[\033[31;1m!\033[37;1m]Masukkan Email Target\n')
 email = input("\033[31;1mEmail \033[37;1m: ")
-print('\033[37;1mMasukkan Wordlist\033[33;1m(\033[31;1mpassword.txt\033[33;1m)')
+print('\033[37;1mMasukkan Wordlist\033[33;1m (\033[31;1mpassword.txt\033[33;1m)')
 word = input('\033[31;1mWordlist \033[37;1m: ')
 exist = os.path.isfile(word)
 if exist == False:
@@ -92,4 +92,4 @@ else:
                   print('[+] Password Adalah : '+password)
                   exit()
                 else:
-                  print('\n\033[31;1m(\033[37;1m-\033[31;1m) \033[37;1mPassword Gagal Ditemukan \033[31;1m: '+password)
+                  print('\n\033[31;1m(\033[37;1m-\033[31;1m) \033[37;1mPassword Gagal Ditemukan \033[33;1m: '+password)
