@@ -7,8 +7,8 @@ $pip3 install termcolor
 $pip3 install pyfiglet
 $pip3 install requests
 </pre></code>
-<div><code><pre>
+<code><pre>
 # Run Script
 $git clone https://github.com/Reaper-XD/BruteFb
 $cd BruteFb
-</div></code></pre>
+</code></pre>
