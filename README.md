@@ -19,3 +19,4 @@ $cd BruteFb
 <a class="md-tile" data-rid="1" data-pos="0" href="https://www.youtube.com/" aria-label="YouTube" title="YouTube" draggable="false"><div class="md-tile-inner"><img class="md-icon" title="" alt="" src="chrome-search://ntpicon/?size=24%401x&amp;url=https%3A%2F%2Fwww.youtube.com%2F"><div class="md-title" style="direction: ltr;"><span>YouTube</span></div></div><button class="md-menu md-edit-menu" title="Edit shortcut" aria-label="Edit shortcut YouTube"></button></a>
 ### Catatan
 Gunakan Lah dengan Bijak.Kalau Ada Masalah Admin Tidak Bertanggung Jawab!
+[![](https://img.shields.io/badge/Youtube-red?logo=Youtube&logoColor=red&labelColor=white)]
