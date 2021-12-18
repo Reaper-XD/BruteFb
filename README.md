@@ -1,5 +1,6 @@
 # ᴄᴀʀᴀ ʜᴀᴄᴋ ᴀᴋᴜɴ Fᴀᴄᴇʙᴏᴏᴋ
-![](./keren.png)
+![](./Hack.jng)
+![](./Hack(1).jpg
 <pre><code>
 $pkg update && pkg upgrade
 $pkg install git
