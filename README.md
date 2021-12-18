@@ -1,4 +1,4 @@
-# ᴄᴀʀᴀ ʜᴀᴄᴋ ᴀᴋᴜɴ ꜰᴀᴄᴇʙᴏᴏᴋ
+# ᴄᴀʀᴀ ʜᴀᴄᴋ ᴀᴋᴜɴ Fᴀᴄᴇʙᴏᴏᴋ
 <pre><code>
 $pkg update && pkg upgrade
 $pkg install git
