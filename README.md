@@ -20,6 +20,6 @@ $python3 fb.py
 [![](https://img.shields.io/badge/TokenFb-red?logo=TokenFb&logoColor=red&labelColor=white)](https://chrome.google.com/webstore/detail/get-facebook-access-token/coaoigakadjdinfmepjlhfiichelcjpn?hl=en)
 <a class="md-tile" data-rid="2" data-pos="1" href="https://chrome.google.com/webstore?hl=en" aria-label="Web Store" title="Web Store" draggable="false"><div class="md-tile-inner"><img class="md-icon" title="" alt="" src="chrome-search://ntpicon/?size=24%401x&amp;url=https%3A%2F%2Fchrome.google.com%2Fwebstore%3Fhl%3Den"><div class="md-title" style="direction: ltr;"><span>Web Store</span></div></div><button class="md-menu md-edit-menu" title="Edit shortcut" aria-label="Edit shortcut Web Store"></button></a>
 <a href="https://www.pointblank.id/member/signup" title="#TUTORIAL REGISTRASI">REGISTRASI POINTBLANK</a>
-<a href="https://github.com/Reaper-XD/ScriptSix" rel="nofollow noopener" target="_blank">ScriptSix</a>
+<a href="https://github.com/Reaper-XD/ScriptSix" rel="nofollow noopener" target="_script">ScriptSix</a>
 ### Catatan
 Gunakan Lah dengan Bijak.Kalau Ada Masalah Admin Tidak Bertanggung Jawab!
